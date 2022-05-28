@@ -1,7 +1,7 @@
 {
   "name": "calculator_app",
   "version": "0.1.0",
-  "homepage": "https://raulbarriga.github.io/basic-react_calculator",
+  "homepage": "https://www.raulbarriga.com/basic-react_calculator/",
   "private": false,
   "dependencies": {
     "gh-pages": "^4.0.0",
