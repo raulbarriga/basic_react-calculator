@@ -16,7 +16,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-I used `gh-pages` to deploy this React app to Github Pages.
+I used the `gh-pages` package to deploy this React app to Github Pages.
 
 ### `npm run build` fails to minify
 
